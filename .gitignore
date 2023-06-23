@@ -102,3 +102,5 @@ pyvenv.cfg
 .vscode/
 
 data/points.pkl
+
+test.py
